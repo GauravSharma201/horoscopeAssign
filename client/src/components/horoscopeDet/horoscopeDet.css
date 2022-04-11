@@ -1,0 +1,15 @@
+.hor-det{
+    height: 70vh;
+    margin: 7rem;
+}
+
+@media (max-width: 425px) {
+    .hor-det{
+        height: 250vh;
+        margin: 7rem;
+    }
+    .hor-det div{
+        width: 100% !important;
+        text-align: center !important;
+    }
+  }

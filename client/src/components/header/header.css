@@ -1,0 +1,15 @@
+.input-span{
+    width:30% !important;
+}
+@media (max-width: 425px) {
+    .main-title{
+        font-size: 3rem !important;
+    }
+    .header-cont{
+        flex-direction: column !important;
+    }
+    .input-span{
+        width:85% !important;
+        margin-bottom: 1rem;
+    }
+  }

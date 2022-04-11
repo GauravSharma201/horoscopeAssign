@@ -1,0 +1,9 @@
+.footer-cont{
+    height: 16rem;
+}
+
+@media (max-width: 425px) {
+    .footer-cont{
+        height: 24rem;
+    }
+  }
